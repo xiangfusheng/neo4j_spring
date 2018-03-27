@@ -7,7 +7,6 @@ import org.springframework.context.annotation.ComponentScan;
 
 /**
  * @author xiangfusheng
->>>>>>> 1aedd9a03533d53bd032bffdbec66149d98c94f6
  */
 @SpringBootApplication
 @EntityScan("movies.spring.data.neo4j.domain")
