@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.domain.EntityScan;
 import org.springframework.context.annotation.ComponentScan;
 
 /**
- * @author Michael Hunger
+ * @author Xiang fusheng
  * @author Mark Angrish
  */
 @SpringBootApplication
