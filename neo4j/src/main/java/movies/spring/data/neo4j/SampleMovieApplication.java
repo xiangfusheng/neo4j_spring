@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.domain.EntityScan;
 import org.springframework.context.annotation.ComponentScan;
 
 /**
- * @author Michael Hunger
- * @author Mark Angrish
+ * @author xfs
+ * @author xfs
  */
 @SpringBootApplication
 @EntityScan("movies.spring.data.neo4j.domain")
